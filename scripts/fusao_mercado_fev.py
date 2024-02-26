@@ -37,7 +37,6 @@ print(dados_fusao.qtd_linhas)
 
 #Load
 
-
 dados_fusao.salvando_dados(path_dados_combinados)
 print(path_dados_combinados)
 
